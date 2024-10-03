@@ -1,7 +1,7 @@
-moviepy
+numpy
 gymnasium
+torch
+tensorboard
+pyside6
 imageio
-mujuco
-pybullet
-ffmpeg
-
+moviepy
