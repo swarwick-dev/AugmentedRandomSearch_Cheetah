@@ -66,7 +66,6 @@ By combining these features, **GYMTRAINER-AI** provides a comprehensive platform
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
 | ⚙️  | **Architecture**  | The project's architecture is modular, with separate modules for data processing (Normaliser), AI model training (Trainer), and file management (Helpers). It utilizes a BaseModel as the foundation for policy weights and hyperparameters. |
-| 🔩 | **Code Quality**  | Code quality appears to be good, with clear comments and descriptive variable names. The project follows a consistent naming convention and has minimal duplication of code. |
 | 🔌 | **Integrations**  | The project integrates with various libraries and frameworks, including NumPy, Gymnasium, PyTorch, TensorBoard, and PySide6. It also uses external dependencies like requirements.txt and setup.py. |
 | 🧩 | **Modularity**    | The codebase is designed with modularity in mind, allowing for easy reuse of individual modules or classes. This facilitates experimentation and extension of the project's capabilities. |
 | 📦 | **Dependencies**  | The project depends on several external libraries and dependencies, including requirements.txt, setup.py, NumPy, Gymnasium, PyTorch, TensorBoard, PySide6, moviepy, and text. |
